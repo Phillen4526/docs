@@ -38,3 +38,7 @@ It's like "mouse down?" but lets you check each individual button. Keep in mind 
  * (0) primary is usually left
  * (1) middle is usually scroll wheel
  * (2) secondary is usually right (running this block once will disable right click on the stage)
+
+### Is TurboWarp 
+
+It normally says True, so it cant say False
